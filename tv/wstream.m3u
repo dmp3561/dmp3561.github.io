@@ -5,16 +5,13 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?c
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" group-title="Music",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
-#EXTINF:-1 tvg-id="MoozDance.ro" status="timeout",MoozDance (576p)
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="MoozDance" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Mooz_Dance_Logo.png" group-title="Music",Mooz Dance
 #EXTVLCOPT:http-referrer=https://mooz.tv/
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 
-#EXTINF:-1 tvg-id="MoozHits.ro" status="timeout",MoozHits (576p)
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Mooz_Hits.png" group-title="Music",Mooz Hits
 #EXTVLCOPT:http-referrer=https://mooz.tv/
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-
-#EXTINF:-1 tvg-id="MoozRo.ro" status="blocked",MoozRo (576p)
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AH.FM - World's #1 Trance Radio" tvg-language="ENG" tvg-logo="" tvg-country="" tvg-url="" group-title="Music",AH.FM - World's #1 Trance Radio (pouze zvuk)
 http://fr.ah.fm:8000/192k
