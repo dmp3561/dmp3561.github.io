@@ -5,6 +5,17 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?c
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" group-title="Music",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
+#EXTINF:-1 tvg-id="MoozDance.ro" status="timeout",MoozDance (576p)
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+
+#EXTINF:-1 tvg-id="MoozHits.ro" status="timeout",MoozHits (576p)
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+
+#EXTINF:-1 tvg-id="MoozRo.ro" status="blocked",MoozRo (576p)
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AH.FM - World's #1 Trance Radio" tvg-language="ENG" tvg-logo="" tvg-country="" tvg-url="" group-title="Music",AH.FM - World's #1 Trance Radio (pouze zvuk)
 http://fr.ah.fm:8000/192k
 
@@ -26,8 +37,11 @@ https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8?checkedby:iptvcat.co
 #EXTINF:-1 tvg-id="RTMplus.cz" tvg-name="RTM PLUS" tvg-language="Czech" tvg-logo="https://i.iinfo.cz/images/302/rtm-1-prev.jpg" tvg-country="CZ" tvg-url="http://RTMplus.cz" group-title="General",RTM Plus Liberecko
 http://www.rtmplus.cz/live/1-playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="POLAR" tvg-name="POLAR" tvg-language="Czech" tvg-logo="https://polar.cz/images/layout/header/logo.png" tvg-country="CZ" tvg-url="General" group-title="",Polar
+#EXTINF:-1 tvg-id="POLAR" tvg-name="POLAR" tvg-language="Czech" tvg-logo="https://polar.cz/images/layout/header/logo.png" tvg-country="CZ" tvg-url="" group-title="General",Polar
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="POLAR2" tvg-name="POLAR2" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="https://polar.cz" group-title="General",Polar 2
+http://stream.polar.cz:1935/polar2/polarlive2-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="Movies",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
@@ -46,9 +60,6 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Emirates ARB" tvg-name="Abu Dhabi Emirates ARB" tvg-language="Arabic" tvg-logo="https://sites.google.com/site/broadcastingnetworks/_/rsrc/1385283813933/television/abu-dhabi-tv/abu_dhabi_tv_eu.png" tvg-country="AE" tvg-url="" group-title="General",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Oman TV ARB" tvg-name="Oman TV ARB" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Oman_tv.png" tvg-country="OM" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="General",Oman TV
-https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="Zee Aflam" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="Movies",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
