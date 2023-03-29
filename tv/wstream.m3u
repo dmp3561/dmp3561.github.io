@@ -7,7 +7,7 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="MoozDance" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Mooz_Dance_Logo.png" group-title="Music",Mooz Dance
 #EXTVLCOPT:http-referrer=https://mooz.tv/
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+https://rundle.deta.dev/hls/LIVE$MoozDance/6.m3u8/Level(19012010)?end=END&start=LIVE
 
 #EXTINF:-1 tvg-id="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Mooz_Hits.png" group-title="Music",Mooz Hits
 #EXTVLCOPT:http-referrer=https://mooz.tv/
