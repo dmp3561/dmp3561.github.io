@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="OCKO EXPRES" tvg-name="Ocko Expres" tvg-language="Czech" tvg-logo="https://tachov.eu/wp-content/uploads/2016/10/ockoexpres.png" tvg-country="CZ" tvg-url="" group-title="Music",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" group-title="Music",VIVA Russia
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="MoozDance" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Mooz_Dance_Logo.png" group-title="Music",Mooz Dance
-#EXTVLCOPT:http-referrer=https://mooz.tv/
-https://rundle.deta.dev/hls/LIVE$MoozDance/6.m3u8/Level(19012010)?end=END&start=LIVE
-
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Mooz_Hits.png" group-title="Music",Mooz Hits
-#EXTVLCOPT:http-referrer=https://mooz.tv/
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AH.FM - World's #1 Trance Radio" tvg-language="ENG" tvg-logo="" tvg-country="" tvg-url="" group-title="Music",AH.FM - World's #1 Trance Radio (pouze zvuk)
-http://fr.ah.fm:8000/192k
-
-#EXTINF:-1 tvg-id="asiadreamradio.com" tvg-name="Asia DREAM Radio - Japan Hits" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Music",Asia DREAM Radio - Japan Hits (pouze zvuk)
-http://184.75.212.82:1025/;?type=http&nocache=151570
-
-#EXTINF:-1 tvg-id="laut.fm" tvg-name="LOFI von laut.fm" tvg-language="NL" tvg-logo="" tvg-country="Nederland" tvg-url="http://laut.fm" group-title="Music",LOFI von laut.fm (pouze zvuk)
-http://stream.laut.fm/lofi
 
 #EXTINF:-1 tvg-id="V1" tvg-name="V1" tvg-language="Czech" tvg-logo="https://vychodocech.cz/wp-content/uploads/2016/03/vctv-v1-novelogo-2016-1280x720.png" tvg-country="CZ" tvg-url="" group-title="General",V1
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:iptvcat.com
@@ -37,9 +15,6 @@ http://www.rtmplus.cz/live/1-playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="POLAR" tvg-name="POLAR" tvg-language="Czech" tvg-logo="https://polar.cz/images/layout/header/logo.png" tvg-country="CZ" tvg-url="" group-title="General",Polar
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="POLAR2" tvg-name="POLAR2" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="https://polar.cz" group-title="General",Polar 2
-http://stream.polar.cz:1935/polar2/polarlive2-1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="Movies",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
@@ -49,14 +24,8 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 #EXTINF:-1 tvg-id="Dubai TV ARB" tvg-name="Dubai TV ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" tvg-country="AE" tvg-url="" group-title="General",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="General",Sama Dubai
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="General",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Abu Dhabi Emirates ARB" tvg-name="Abu Dhabi Emirates ARB" tvg-language="Arabic" tvg-logo="https://sites.google.com/site/broadcastingnetworks/_/rsrc/1385283813933/television/abu-dhabi-tv/abu_dhabi_tv_eu.png" tvg-country="AE" tvg-url="" group-title="General",Abu Dhabi Emirates
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="Zee Aflam" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="Movies",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
@@ -79,20 +48,25 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 #EXTINF:-1 tvg-id="AniPlus.kr" tvg-name="AniPlus" tvg-country="KR" tvg-language="JP" tvg-logo="https://www.pngkit.com/png/full/306-3060218_aniplus-aniplus-logo-png.png" group-title="Kids",ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Relax",Bumblebee TV Aurora Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-id="OCKO EXPRES" tvg-name="Ocko Expres" tvg-language="Czech" tvg-logo="https://tachov.eu/wp-content/uploads/2016/10/ockoexpres.png" tvg-country="CZ" tvg-url="" group-title="Music",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="Relax",Bumblebee TV Beaches Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" group-title="Music",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
-#EXTINF:-1 tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="Relax",Bumblebee TV Forest Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="MoozDance" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Mooz_Dance_Logo.png" group-title="Music",Mooz Dance
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rundle.deta.dev/hls/LIVE$MoozDance/6.m3u8/Level(19012010)?end=END&start=LIVE
 
-#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Mooz_Hits.png" group-title="Music",Mooz Hits
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 
-#EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="Relax",Bumblebee TV Mountain Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AH.FM - World's #1 Trance Radio" tvg-language="ENG" tvg-logo="" tvg-country="" tvg-url="" group-title="Music",AH.FM - World's #1 Trance Radio (pouze zvuk)
+http://fr.ah.fm:8000/192k
 
-#EXTINF:-1 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="Relax",Bumblebee TV Sunset Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 tvg-id="asiadreamradio.com" tvg-name="Asia DREAM Radio - Japan Hits" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Music",Asia DREAM Radio - Japan Hits (pouze zvuk)
+http://184.75.212.82:1025/;?type=http&nocache=151570
+
+#EXTINF:-1 tvg-id="laut.fm" tvg-name="LOFI von laut.fm" tvg-language="NL" tvg-logo="" tvg-country="Nederland" tvg-url="http://laut.fm" group-title="Music",LOFI von laut.fm (pouze zvuk)
+http://stream.laut.fm/lofi
