@@ -62,11 +62,11 @@ https://rundle.deta.dev/hls/LIVE$MoozDance/6.m3u8/Level(19012010)?end=END&start=
 #EXTVLCOPT:http-referrer=https://mooz.tv/
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 
+#EXTINF:-1 tvg-id="Atomic TV" tvg-name="Atomic TV" tvg-country="RO" tvg-language="Romania" tvg-logo="https://www.atomictv.ro/wp-content/uploads/2021/10/Atomic_TV.png" group-title="Music",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AH.FM - World's #1 Trance Radio" tvg-language="ENG" tvg-logo="" tvg-country="" tvg-url="" group-title="Music",AH.FM - World's #1 Trance Radio (pouze zvuk)
 http://fr.ah.fm:8000/192k
-
-#EXTINF:-1 tvg-id="asiadreamradio.com" tvg-name="Asia DREAM Radio - Japan Hits" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Music",Asia DREAM Radio - Japan Hits (pouze zvuk)
-http://184.75.212.82:1025/;?type=http&nocache=151570
 
 #EXTINF:-1 tvg-id="laut.fm" tvg-name="LOFI von laut.fm" tvg-language="NL" tvg-logo="" tvg-country="Nederland" tvg-url="http://laut.fm" group-title="Music",LOFI von laut.fm (pouze zvuk)
 http://stream.laut.fm/lofi
