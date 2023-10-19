@@ -51,12 +51,12 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="OCKO EXPRES" tvg-name="Ocko Expres" tvg-language="Czech" tvg-logo="https://tachov.eu/wp-content/uploads/2016/10/ockoexpres.png" tvg-country="CZ" tvg-url="" group-title="Music",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" group-title="Music",VIVA Russia
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-id="tntmusic.ru" tvg-name="TNT Music RU" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-music-ru.png" group-title="Music",TNT Music Russia
+https://vk.com/video-339767_456244698
 
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="MoozDance" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Mooz_Dance_Logo.png" group-title="Music",Mooz Dance
+#EXTINF:-1 tvg-id="4fun.tv" tvg-name="4Fun.tv" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.lyngsat.com/logo/tv/num/4-fun-tv-pl.png" group-title="Music",4FUN TV
 #EXTVLCOPT:http-referrer=https://mooz.tv/
-https://rundle.deta.dev/hls/LIVE$MoozDance/6.m3u8/Level(19012010)?end=END&start=LIVE
+https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1 tvg-id="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Mooz_Hits.png" group-title="Music",Mooz Hits
 #EXTVLCOPT:http-referrer=https://mooz.tv/
