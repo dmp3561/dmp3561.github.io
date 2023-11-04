@@ -9,8 +9,11 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="PrahaTV.eu" tvg-name="Praha TV" tvg-language="Czech" tvg-logo="https://www.fotbalparkpraha.cz/img/0000-Global/images/article/prahatv_article-detail.png" tvg-country="CZ" tvg-url="https://prahatv.eu" group-title="General",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="TVBrno1.cz",tvg-name="TV Brno 1" tvg-language="Czech" tvg-logo="https://www.kuki.cz/media/cache/01/24/01244c47d651b4ca959b9c15af728f27.png" tvg-country="CZ" tvg-url="" group-title="General"TV Brno 1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTMplus.cz" tvg-name="RTM PLUS" tvg-language="Czech" tvg-logo="https://i.iinfo.cz/images/302/rtm-1-prev.jpg" tvg-country="CZ" tvg-url="http://RTMplus.cz" group-title="General",RTM Plus Liberecko
-http://www.rtmplus.cz/live/1-playlist.m3u8?checkedby:iptvcat.com
+https://www.rtmplus.cz/live/1-playlist.m3u8
 
 #EXTINF:-1 tvg-id="POLAR" tvg-name="POLAR" tvg-language="Czech" tvg-logo="https://polar.cz/images/layout/header/logo.png" tvg-country="CZ" tvg-url="" group-title="General",Polar
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8?checkedby:iptvcat.com
@@ -27,17 +30,17 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="General",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="Zee Aflam" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="Movies",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="TVNova.hr" tvg-name="Nova TV HR" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nova_TV_Croatia_logo.png" group-title="General",Nova Croatia
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 
-#EXTINF:-1 tvg-id="ZeeAlwan.ae" tvg-name="Zee Alwan" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="Movies",Zee Alwan
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-id="RTLCroatia.hr"tvg-name="RTLCroatia HR" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/2560px-Rtl-logo.svg.png" group-title="General",RTL Croatia
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="TokyoMX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1280px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Movies",Tokyo MX1
-https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="TokyoMX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2011221Q3340-L.jpg" group-title="Movies",Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -52,7 +55,7 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="tntmusic.ru" tvg-name="TNT Music RU" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-music-ru.png" group-title="Music",TNT Music Russia
-https://vk.com/video-339767_456244698
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 
 #EXTINF:-1 tvg-id="4fun.tv" tvg-name="4Fun.tv" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.lyngsat.com/logo/tv/num/4-fun-tv-pl.png" group-title="Music",4FUN TV
 #EXTVLCOPT:http-referrer=https://mooz.tv/
