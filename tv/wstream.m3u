@@ -9,7 +9,7 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="PrahaTV.eu" tvg-name="Praha TV" tvg-language="Czech" tvg-logo="https://www.fotbalparkpraha.cz/img/0000-Global/images/article/prahatv_article-detail.png" tvg-country="CZ" tvg-url="https://prahatv.eu" group-title="General",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-name="TV Brno 1" tvg-language="Czech" tvg-logo="https://www.kuki.cz/media/cache/01/24/01244c47d651b4ca959b9c15af728f27.png" tvg-country="CZ" tvg-url="" group-title="General",TV Brno 1
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-name="TV Brno1" tvg-language="Czech" tvg-logo="https://www.kuki.cz/media/cache/01/24/01244c47d651b4ca959b9c15af728f27.png" tvg-country="CZ" tvg-url="" group-title="General",TV Brno 1
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTMplus.cz" tvg-name="RTM PLUS" tvg-language="Czech" tvg-logo="https://i.iinfo.cz/images/302/rtm-1-prev.jpg" tvg-country="CZ" tvg-url="http://RTMplus.cz" group-title="General",RTM Plus Liberecko
