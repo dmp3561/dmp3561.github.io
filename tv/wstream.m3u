@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="V1" tvg-name="V1" tvg-language="Czech" tvg-logo="https://vychodocech.cz/wp-content/uploads/2016/03/vctv-v1-novelogo-2016-1280x720.png" tvg-country="CZ" tvg-url="" group-title="General",V1
-https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="Fashion TV CZ/SK" tvg-name="Fashion TV" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" tvg-country="CZ" tvg-url="" group-title="Fashion",Fashion TV CZ/SK
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="V1" tvg-name="V1" tvg-language="Czech" tvg-logo="https://vychodocech.cz/wp-content/uploads/2016/03/vctv-v1-novelogo-2016-1280x720.png" tvg-country="CZ" tvg-url="" group-title="General",V1
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="PrahaTV.eu" tvg-name="Praha TV" tvg-language="Czech" tvg-logo="https://www.fotbalparkpraha.cz/img/0000-Global/images/article/prahatv_article-detail.png" tvg-country="CZ" tvg-url="https://prahatv.eu" group-title="General",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="TVBrno1.cz",tvg-name="TV Brno 1" tvg-language="Czech" tvg-logo="https://www.kuki.cz/media/cache/01/24/01244c47d651b4ca959b9c15af728f27.png" tvg-country="CZ" tvg-url="" group-title="General"TV Brno 1
+#EXTINF:-1 tvg-id="TVBrno1.cz",tvg-name="TV Brno 1" tvg-language="Czech" tvg-logo="https://www.kuki.cz/media/cache/01/24/01244c47d651b4ca959b9c15af728f27.png" tvg-country="CZ" tvg-url="" group-title="General",TV Brno 1
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTMplus.cz" tvg-name="RTM PLUS" tvg-language="Czech" tvg-logo="https://i.iinfo.cz/images/302/rtm-1-prev.jpg" tvg-country="CZ" tvg-url="http://RTMplus.cz" group-title="General",RTM Plus Liberecko
 https://www.rtmplus.cz/live/1-playlist.m3u8
 
-#EXTINF:-1 tvg-id="POLAR" tvg-name="POLAR" tvg-language="Czech" tvg-logo="https://polar.cz/images/layout/header/logo.png" tvg-country="CZ" tvg-url="" group-title="General",Polar
+#EXTINF:-1 tvg-id="POLAR" tvg-name="POLAR" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/polar.png" tvg-country="CZ" tvg-url="" group-title="General",Polar
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="Movies",Thrill
@@ -36,11 +36,8 @@ https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:-1 tvg-id="RTLCroatia.hr"tvg-name="RTLCroatia HR" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/2560px-Rtl-logo.svg.png" group-title="General",RTL Croatia
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="TokyoMX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1280px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Movies",Tokyo MX1
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-
-#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="TokyoMX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2011221Q3340-L.jpg" group-title="Movies",Tokyo MX2
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTLKockica" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://static.wikia.nocookie.net/ttte/images/9/9d/RTLKockicalogo.png" group-title="Kids",RTL Kockica Croatia
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
