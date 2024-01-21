@@ -18,9 +18,6 @@ https://www.rtmplus.cz/live/1-playlist.m3u8
 #EXTINF:-1 tvg-id="POLAR" tvg-name="POLAR" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/polar.png" tvg-country="CZ" tvg-url="" group-title="General",Polar
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="Movies",Thrill
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-
 #EXTINF:-1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-language="Arabic" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 
@@ -28,7 +25,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="General",Abu Dhabi TV
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="TVNova.hr" tvg-name="Nova TV HR" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nova_TV_Croatia_logo.png" group-title="General",Nova Croatia
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
@@ -45,8 +42,14 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" tvg-country="UAE" tvg-url="" group-title="Kids",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 
-#EXTINF:-1 tvg-id="AniPlus.kr" tvg-name="AniPlus" tvg-country="KR" tvg-language="JP" tvg-logo="https://www.pngkit.com/png/full/306-3060218_aniplus-aniplus-logo-png.png" group-title="Kids",ANIPLUS
-http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
+http://jp.vthanhnetwork.com/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TV Tokyo 
+http://jp.vthanhnetwork.com/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", Animax  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 tvg-id="OCKO EXPRES" tvg-name="Ocko Expres" tvg-language="Czech" tvg-logo="https://tachov.eu/wp-content/uploads/2016/10/ockoexpres.png" tvg-country="CZ" tvg-url="" group-title="Music",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
