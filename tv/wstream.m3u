@@ -27,68 +27,17 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 #EXTINF:-1 tvg-id="TVNova.hr" tvg-name="Nova TV HR" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nova_TV_Croatia_logo.png" group-title="General",Nova Croatia
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 
-#EXTINF:-1 tvg-id="RTLCroatia.hr"tvg-name="RTLCroatia HR" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/2560px-Rtl-logo.svg.png" group-title="General",RTL Croatia
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTLKockica" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://static.wikia.nocookie.net/ttte/images/9/9d/RTLKockicalogo.png" group-title="Kids",RTL Kockica Croatia
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing ES" tvg-language="Espanol" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="Kids",Boing Espana
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super IT" tvg-language="Italian" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png" group-title="Kids",Super!
-https://list.iptvcat.com/my_list/s/1dd38f0f0e6177fd17221da359b8be72.m3u8
-
-#EXTINF:-1 tvg-id ="cnjapan" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png" group-title="Kids",Cartoon Network Japan
-https://list.iptvcat.com/my_list/s/d425b809055929b7a3742bb7d22a573f.m3u8
-
-#EXTINF:-1 tvg-id ="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="General", BS Animax  
-https://list.iptvcat.com/my_list/s/a765a2e56a06e435861192ff07549311.m3u8
-
-#EXTINF:-1 tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="General", BS TBS 
-https://list.iptvcat.com/my_list/s/f1dd2b61d8b97a21f4b415b5137334e3.m3u8
-
-#EXTINF:-1 tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="General", BS TV Tokyo 
-https://list.iptvcat.com/my_list/s/e435cc7ca5fd6eac84db1f958c24af34.m3u8
-
-#EXTINF:-1 tvg-id="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/800px-BS11_logo.svg.png" group-title="General", BS 11 
-https://list.iptvcat.com/my_list/s/1be8cea2efb63d259b68183a4a99858b.m3u8
-
-#EXTINF:-1 tvg-id="tokiomx1" tvg-logo="" group-title="General", Tokio MX1
-https://list.iptvcat.com/my_list/s/0bd7b4c87240bd0194e740115eb2d6b6.m3u8
-
-#EXTINF:-1 tvg-id="tokiomx2" tvg-logo="" group-title="General", Tokio MX2
-https://list.iptvcat.com/my_list/s/9cd5d444bebe1aaf211286b5bb8a6ad7.m3u8
-
-#EXTINF:-1 tvg-id="wowowprime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png" group-title="Movies", WOWOW Prime 
-https://list.iptvcat.com/my_list/s/63a2f362350e45dd9705c5a94b122e06.m3u8
-
-#EXTINF:-1 tvg-id="wowowlive" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png" group-title="Movies", WOWOW Live  
-https://list.iptvcat.com/my_list/s/aedf3bc10001c94c632dab7ee13e2e71.m3u8
-
-#EXTINF:-1 tvg-id="wowowcinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png" group-title="Movies", WOWOW Cinema
-https://list.iptvcat.com/my_list/s/b74ff6fd67edd05a3b045611d9d7c741.m3u8
-
-#EXTINF:-1 tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png" group-title="Movies", Star Channel 1  
-https://list.iptvcat.com/my_list/s/87de67dd8baefbe10ac8833552b64959.m3u8
-
-#EXTINF:-1 tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png" group-title="Movies", Star Channel 2
-https://list.iptvcat.com/my_list/s/2b5add7b4e1d45c0d69e36acdb5d92ee.m3u8
-
-#EXTINF:-1 tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png" group-title="Movies", Star Channel 3  
-https://list.iptvcat.com/my_list/s/7bc18c8f4c4e2316d508cdb2a420bd97.m3u8
 
 #EXTINF:-1 tvg-id="OCKO EXPRES" tvg-name="Ocko Expres" tvg-language="Czech" tvg-logo="https://tachov.eu/wp-content/uploads/2016/10/ockoexpres.png" tvg-country="CZ" tvg-url="" group-title="Music",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="tntmusic.ru" tvg-name="TNT Music RU" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-music-ru.png" group-title="Music",TNT Music Russia
-https://list.iptvcat.com/my_list/s/71170eedf8a9b42c0f7b7f3df1c2d79f.m3u8
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RUTV RU" tvg-country="RU" tvg-language="Russian" tvg-logo="https://toplogos.ru/images/logo-ru-tv.png" group-title="Music",RU.TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
 
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/54653.jpg" group-title="Music",Music Japan TV
-https://list.iptvcat.com/my_list/s/2d8dd657d44ace7d609034adaaed594a.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="Clubbing.TV" tvg-language="Francais" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall_250.png" tvg-country="FR" tvg-url="" group-title="Music", ClubbingTV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="4fun.tv" tvg-name="4Fun.tv" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.lyngsat.com/logo/tv/num/4-fun-tv-pl.png" group-title="Music",4FUN TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
